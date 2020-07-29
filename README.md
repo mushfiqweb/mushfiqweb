@@ -1,2 +1,1 @@
-# Hi there 👋
-## Details on my blog [mushfiqweb.com](https://mushfiqweb.com)
+### Hi there 👋! Read details on my blog [mushfiqweb.com](https://mushfiqweb.com)
