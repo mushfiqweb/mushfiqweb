@@ -1,4 +1,6 @@
 ### Hi there!
+I am a Full Stack Developer working on Application Development for quite some time!
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
