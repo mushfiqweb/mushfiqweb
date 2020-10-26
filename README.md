@@ -1,5 +1,5 @@
 ### Hi there!
-I am a Full Stack Developer working on Application Development for quite some time!
+**I am a Full Stack Developer working on Application Development for quite some time!**
 
 ### Connect with me:
 
