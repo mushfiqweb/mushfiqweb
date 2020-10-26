@@ -8,7 +8,6 @@
 [<img align="left" alt="codeSTACKr | stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
----
 
 ### 📕 Latest Blog Posts
 
