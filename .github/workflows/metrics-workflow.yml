@@ -18,6 +18,6 @@ jobs:
           # Options
           user: mushfiqweb
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
           plugin_followup: yes
