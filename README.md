@@ -3,12 +3,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mushfiqweb | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="mushfiqweb | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mushfiqweb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mushfiqweb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mushfiqweb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="mushfiqweb | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/mushfiqweb/mushfiqweb/master/icons/stack-overflow.svg" />][stackoverflow]
+[<img align="left" alt="mushfiqweb | Facebook" width="22px" src="https://raw.githubusercontent.com/mushfiqweb/mushfiqweb/master/icons/fb.svg" />][facebook]
+[<img align="left" alt="mushfiqweb | Twitter" width="22px" src="https://raw.githubusercontent.com/mushfiqweb/mushfiqweb/master/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mushfiqweb | LinkedIn" width="22px" src="https://raw.githubusercontent.com/mushfiqweb/mushfiqweb/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mushfiqweb | Instagram" width="22px" src="https://raw.githubusercontent.com/mushfiqweb/mushfiqweb/master/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mushfiqweb | LastFM" width="22px" src="https://raw.githubusercontent.com/mushfiqweb/mushfiqweb/master/icons/lastfm.svg" />][lastfm]
 <br />
 
 ## 📕 Latest Blog Posts
@@ -28,6 +28,7 @@
 [instagram]: https://instagram.com/mushfiqweb
 [linkedin]: https://linkedin.com/in/mushfiqweb
 [stackoverflow]: https://stackoverflow.com/story/mushfiqweb
+[lastfm]: https://www.last.fm/user/mushfiqweb
 
 
 
