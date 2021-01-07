@@ -21,6 +21,7 @@
 - [Top new javascript features introduced in es2020](https://www.mushfiqweb.com/top-new-javascript-features-of-es2020/)
 <!-- BLOG-POST-LIST:END -->
 
+![Metrics](https://metrics.lecoq.io/mushfiqweb?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 
 [facebook]: https://fb.me/shiss
