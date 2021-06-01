@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Functional Components Behave Like Stateful Using React Hooks](https://www.mushfiqweb.com/make-functional-components-behave-like-stateful-using-react-hooks/)
+- [A Contemporary Guide on React State Patterns in 2021](https://www.mushfiqweb.com/a-contemporary-guide-on-react-state-patterns-in-2021/)
+- [Best Practices for Checking PropTypes in React Components using TypeScript](https://www.mushfiqweb.com/best-practices-for-checking-proptypes-in-react-components-using-typescript/)
 - [Make Windows Powershell Work Like a Linux Terminal](https://www.mushfiqweb.com/make-windows-powershell-work-like-a-linux-terminal/)
 - [REST API Design Good Practices](https://www.mushfiqweb.com/rest-api-design-good-practices/)
 - [Crud Using React Hooks and Context API](https://www.mushfiqweb.com/crud-using-react-hooks-and-context-api/)
-- [Windows sandbox – test before you install anything on your windows system](https://www.mushfiqweb.com/windows-sandbox-test-before-you-install-anything-on-your-windows-system/)
 <!-- BLOG-POST-LIST:END -->
 
 
