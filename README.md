@@ -30,6 +30,6 @@
 [stackoverflow]: https://stackoverflow.com/story/mushfiqweb
 [lastfm]: https://www.last.fm/user/mushfiqweb
 
-
+[![Latest blog post workflow](https://github.com/mushfiqweb/mushfiqweb/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/mushfiqweb/mushfiqweb/actions/workflows/blog-post-workflow.yml)
 
 
