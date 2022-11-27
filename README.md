@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Explore The Improved Routing, Layouts &amp; Rendering in NextJs 13](https://www.mushfiqweb.com/lets-explore-the-improved-routing-layouts-rendering-in-nextjs-13/)
 - [Why Should We Use Context API Instead of Redux For New React Apps](https://www.mushfiqweb.com/why-should-we-use-context-api-instead-of-redux-for-new-react-apps/)
 - [How to Install Windows 11 on an Unsupported PC](https://www.mushfiqweb.com/how-to-install-windows-11-on-unsupported-devices/)
 - [A Contemporary Guide on React State Patterns in 2021](https://www.mushfiqweb.com/a-contemporary-guide-on-react-state-patterns-in-2021/)
 - [Best Practices for Checking PropTypes in React Components using TypeScript](https://www.mushfiqweb.com/best-practices-for-checking-proptypes-in-react-components-using-typescript/)
-- [Make Windows Powershell Work Like a Linux Terminal](https://www.mushfiqweb.com/make-windows-powershell-work-like-a-linux-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 
