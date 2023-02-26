@@ -27,7 +27,7 @@
 [twitter]: https://twitter.com/mushfiqweb
 [instagram]: https://instagram.com/mushfiqweb
 [linkedin]: https://linkedin.com/in/mushfiqweb
-[stackoverflow]: https://stackoverflow.com/story/mushfiqweb
+[stackoverflow]: https://stackoverflow.com/users/1421285/mushfiq
 [lastfm]: https://www.last.fm/user/mushfiqweb
 
 [![Latest blog post workflow](https://github.com/mushfiqweb/mushfiqweb/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/mushfiqweb/mushfiqweb/actions/workflows/blog-post-workflow.yml)
