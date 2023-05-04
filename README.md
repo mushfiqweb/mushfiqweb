@@ -14,7 +14,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Large Language Model GPT-4 Without Any Subscription](https://www.mushfiqweb.com/use-large-language-model-gpt-4-without-any-subscription/)
+- [Use Large Language Model GPT-4 Without Any Subscription as ChatGTP Alternative](https://www.mushfiqweb.com/use-large-language-model-gpt-4-without-any-subscription/)
 - [Short Handbook for TypeScript types, interfaces and generics](https://www.mushfiqweb.com/short-handbook-for-typescript-types-classes-interfaces-generics-and-so-on/)
 - [What Happens When We Type a URL in Browser](https://www.mushfiqweb.com/what-happens-when-we-type-a-url-in-browser/)
 - [Let’s Explore The Improved Routing, Layouts &amp; Rendering in NextJs 13](https://www.mushfiqweb.com/lets-explore-the-improved-routing-layouts-rendering-in-nextjs-13/)
